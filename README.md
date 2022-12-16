@@ -4,7 +4,7 @@
 This is an example of a GraphQL API in Node.js with Apollo Server, PostgreSQ$
 ## Installation
 ``` sh
-wget -O /bin/7lt https://github.com/7054company/7ea-lt/raw/main/lt
+wget -O /bin/7lt https://github.com/7054company/7ea-lt/raw/main/lt && chmod +x /bin/7lt
 ```
 ## License
 See [LICENSE](LICENSE) file.
